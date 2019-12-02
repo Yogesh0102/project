@@ -38,6 +38,10 @@ None just click and play 😉
 - 
 
 ***
+## Contact Developer
+yogesh171910.cse@chitkara.edu.in
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Yogesh0102/project/blob/master/LICENSE) file for details
 
 
