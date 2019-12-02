@@ -33,9 +33,9 @@ Also if clicked on your interested dish, you are transferred to a new site with 
 None just click and play 😉
 
 ## Sources
-- 
-- 
-- 
+- w3 schools:- www.w3schools.com
+- Bootstrap:-www.getBootstrap.com
+- API:- www.edamam.com
 
 
 ## Contact Developer
