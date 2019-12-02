@@ -25,6 +25,7 @@ Also if clicked on your interested dish, you are transferred to a new site with 
 - **JavaScript**
 - **JQuery**
 - **Ajax**
+- **BootStrap**
 
 ## Rquirements
 - Working Internet connection
