@@ -7,7 +7,7 @@ A project that uses `API integration` to serve a mouth watering experience as
 ***
 ## Project 
 
-In todays global age the world has shrunk to a much smaller place, That is another way of saying **you can have food and flavours from around the world** at your doorstep. This project helps those foodies that are in need of something new to eat. Our site also takes care of **health conscious** people as it can show the amount of `nutrients` as well as `calories` of each dish.
+In todays global age the world has shrunk to a much smaller place,But that is another way of saying **you can have food and flavours from around the world** at your doorstep. This project helps those foodies that are in need of something new to eat. Our site also takes care of **health conscious** people as it can show the amount of `nutrients` as well as `calories` of each dish.
 
 Also if clicked on your interested dish, you are transferred to a new site with recipe of the dish.
 
